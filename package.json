@@ -1,0 +1,28 @@
+{
+  "name": "scrum",
+  "description": "scrum our team",
+  "version": "0.1.0",
+  "main": "README.md",
+  "devDependencies": {
+    "f2e-server": "^2.3.2",
+    "mdppt": "^0.4.3"
+  },
+  "scripts": {
+    "install": "cp -rf node_modules/mdppt/assets ./",
+    "start": "./node_modules/.bin/f2e start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shy2850/scrum.git"
+  },
+  "keywords": [
+    "scrum"
+  ],
+  "author": "shy2850",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shy2850/scrum/issues"
+  },
+  "homepage": "https://github.com/shy2850/scrum#readme"
+}
