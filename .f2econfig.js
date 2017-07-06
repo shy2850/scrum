@@ -25,6 +25,5 @@ module.exports = {
                 }
             }
         }
-    ],
-    output: path.resolve(__dirname, '../scrum-output')
+    ]
 }

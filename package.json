@@ -10,6 +10,7 @@
   "scripts": {
     "install": "cp -rf node_modules/mdppt/assets ./",
     "start": "./node_modules/.bin/f2e start",
+    "build": "./node_modules/.bin/f2e build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
