@@ -1,10 +1,10 @@
 {
   "name": "scrum",
   "description": "scrum our team",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "README.md",
   "devDependencies": {
-    "f2e-server": "^2.3.2",
+    "f2e-server": "^2.3.3",
     "mdppt": "^0.4.3"
   },
   "scripts": {

@@ -29,7 +29,7 @@ from: https://www.zhihu.com/question/19638322
 
 [slide data-transition="vertical3d"]
 # [敏捷软件开发宣言](http://agilemanifesto.org/iso/zhchs/manifesto.html)
-1. 个体和互动 高于 流程和工具
+1. 个体和互动 高于 流程和工具 {:&.bounceIn}
 1. 工作的软件 高于 详尽的文档
 1. 客户合作 高于 合同谈判
 1. 响应变化 高于 遵循计划
@@ -41,3 +41,76 @@ from: https://www.zhihu.com/question/19638322
 [slide data-transition="newspaper"]
 # 四个会议
 ![四个会议](img/mettings.png)
+
+[slide data-transition="newspaper"]
+# 计划会
+![计划会](img/metting-sprint.png)
+
+[slide]
+# 计划会 
+归档上一个运行时 Sprint
+![计划会](img/metting-sprint-prev.png)
+
+[slide]
+# 计划会
+从Backlog中拉取优先级最高的 Story
+![计划会](img/metting-sprint-backlog.png)
+
+[slide]
+# 计划会
+优先级排序
+![计划会](img/metting-sprint-sort.png)
+
+[slide]
+# 每日站会
+![每日站会](img/metting-daily.png)
+
+[slide]
+# 每日站会 Board
+![每日站会](img/metting-daily-board.png)
+
+[slide]
+# 评审会
+![评审会](img/metting-review.png)
+
+[slide]
+# 评审会 Board
+![评审会](img/metting-review-board.png)
+
+[slide]
+# 回顾会
+![回顾会](img/metting-retrospective.png)
+
+
+
+[slide data-transition="vertical3d"]
+# 效率云iCafe
+百度内部敏捷实践的先驱
+[http://xiaolvyun.baidu.com](http://xiaolvyun.baidu.com)
+
+[slide data-transition="vertical3d"]
+# 计划跟踪 
+1. ### 定目标  
+  - 拆卡片
+  - 估工时
+2. ### 做计划
+  - 更新卡片
+  - 任务提醒
+  - 归档计划
+3. ### 看进度  
+  - 展示燃尽图
+  - 看层级进度
+  - 看板和泳道
+
+[slide]
+# 高级功能
+1. 计划调整 & 无限计划层级
+2. 任务查看 & 任务分配
+3. 历史卡片查询
+4. 讨论分享
+5. 产品规划
+6. 项目、类型、字段、流程配置
+
+
+[slide]
+# Q&A
